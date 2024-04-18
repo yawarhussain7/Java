@@ -28,7 +28,7 @@ class Management{
 		System.out.println("Enter the Student Address : ");
 		address = input.next();
 		System.out.println("Enter the Student Date of Birth : ");
-		dob = input.next();
+		dob = input.nextLine();
 		System.out.println("Enter the Student id :");
 		id = input.nextInt();
 		for(int i = 0; i < courses.length; i++)

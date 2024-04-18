@@ -1,4 +1,4 @@
-import java.util.Scanner
+import java.util.Scanner;
 class swap_01{
 	
 	public static void main(String args[])

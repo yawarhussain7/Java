@@ -30,7 +30,7 @@ class Class_22{
 		}
 
 		else{
-			System.out.print("Program Terminate ")
+			System.out.print("Program Terminate ");
 		}
 
 	}

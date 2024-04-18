@@ -20,6 +20,8 @@ class test{
 
 	void current()
 	{
+		
+		float current;
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter the current date : ");
 		current = input.nextFloat();
